@@ -1,5 +1,4 @@
 # DS340w-group10
 
-  - This is the first line of the ReadME file
-    
-hi
+## Proposed Data Source:
+https://www.kaggle.com/datasets/yvaizman/the-extrasensory-dataset
